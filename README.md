@@ -4,7 +4,7 @@ In this project I am using my Strava data with K‑Means clustering to see if I 
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 1. **Data Cleanup**  
    - Load `activities.csv`.  
